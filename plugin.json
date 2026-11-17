@@ -1,0 +1,25 @@
+{
+  "id": "neodex.hasard",
+  "name": "Hasard",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Laisse le hasard décider, en pixel art : une roue avec tes propres choix (et un mode qui retire le gagnant pour tirer un ordre de passage), de 1 à 6 dés de 4 à 100 faces qui roulent sur un tapis avec leur total, une pièce lancée qui tourne, un nombre entier tiré entre deux bornes et des équipes formées au hasard. Chaque tirage a son son. Tes choix sont gardés et synchronisés.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "hasard",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Jeux",
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "fusion",
+  "syncInfo": "Tes listes (roues, tirages).",
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
