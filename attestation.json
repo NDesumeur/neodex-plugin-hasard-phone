@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.hasard",
+  "repo": "NDesumeur/neodex-plugin-hasard-phone",
+  "version": "1.0.0",
+  "sha256": "c240691cc43240fa1b863eec713757429130dc602c6c6787d8e7f08cb9cdb818",
+  "approvedAt": "2026-11-17T18:40:03.165Z",
+  "neobase": ">=4.0.0",
+  "signature": "JJPfvcN8c+4arJFu9fyCAVHihWLmRV+uQcQ4rgfEeua8BHsHnj2g2Q4MyJkt74zk0dZ87eecfUGQ4Mtmw/e7Ag=="
+}
